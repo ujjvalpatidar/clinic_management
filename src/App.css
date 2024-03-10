@@ -1,0 +1,37 @@
+.list-main-area{
+    background-color: #5AAC4E;
+    width: auto;
+    color: #fff;
+    font-weight: bold;
+}
+.icon{
+    font-size: 20px;
+    cursor: pointer;
+}
+.btn-primary{
+cursor: pointer;
+}
+.btn-danger {
+    cursor: pointer;
+    }
+    .btn-success{
+        cursor: pointer;
+
+    }
+    .btn-dark{
+        cursor: pointer;
+
+    }
+    #update-old-pass {
+        color: red;
+    }
+    #update-pass{
+        color: red;
+    }
+    .span-error{
+        color: red;
+    }
+    .wrapper-class{
+        margin: 6% auto auto 50%;
+    }
+  
